@@ -6,7 +6,7 @@ TRENDnet TEW-827DRU devices through 2.06B04 contain a stack-based buffer overflo
 ## detail
 The bug in function 0x434590, binary www/cgi/ssi
 The parameter 'reboot_type' pass to strcpy
-![send_log_email](send_log_email.png)
+![wizard_ipv6](wizard_ipv6.png)
 
 ## Send package
 ```txt
