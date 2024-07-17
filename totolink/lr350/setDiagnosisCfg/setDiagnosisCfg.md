@@ -1,4 +1,4 @@
-# TEW-827DRU
+# totolink LR350
 ## Firmware version
 totolink LR350 devices through v9.3.5u.6698_b20230810
 ## description
