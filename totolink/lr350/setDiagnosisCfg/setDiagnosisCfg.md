@@ -10,7 +10,7 @@ The parameter 'ip' pass to sprintf if it passes `validity_check`
 ![setDiagnosisCfg](image.png)
 ![validity_check](image-1.png)
 
-## Send package
+## Send packet
 ```txt
 POST /cgi-bin/cstecgi.cgi HTTP/1.1
 Accept: */*
