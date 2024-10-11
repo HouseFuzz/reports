@@ -1,4 +1,4 @@
-# wnr2500-1.0.0.24 DoS vulnerability
+# wndrmacv2-1.0.0.4 DoS vulnerability
 ## firmware version
 vendor: netgear
 
@@ -7,7 +7,7 @@ product: wndrmacv2
 version: below or equal wndrmacv2-1.0.0.4
 
 ## description
-In netgear wnr2500-1.0.0.24, binary `/usr/sbin/uhttpd` contains a NULL pointer dereference vulnerability in `strstr`. Attackers can send malicious packet to trigger the vulnerability, causing DOS on this firmware.
+In netgear wndrmacv2-1.0.0.4, binary `/usr/sbin/uhttpd` contains a NULL pointer dereference vulnerability in `strstr`. Attackers can send malicious packet to trigger the vulnerability, causing DOS on this firmware.
 
 ## detail
 In function `handle_request` (address: 0x40AFD4), the following code contains NULL pointer dereference vulnerability. The parameter of `strstr` maybe NULL, causing DoS on this firmware

@@ -1,4 +1,4 @@
-# wnr2500-1.0.0.24 stack-based buffer overflow vulnerability
+# wndrmacv2-1.0.0.4 stack-based buffer overflow vulnerability
 ## firmware version
 vendor: netgear
 
@@ -7,7 +7,7 @@ product: wndrmacv2
 version: below or equal wndrmacv2-1.0.0.4
 
 ## description
-In netgear wnr2500-1.0.0.24, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow. Attackers can send malicious packet to trigger the vulnerability, causing DOS or execute arbitary code on this firmware.
+In netgear wndrmacv2-1.0.0.4, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow. Attackers can send malicious packet to trigger the vulnerability, causing DOS or execute arbitary code on this firmware.
 
 ## detail
 In function `do_file` (address: 0x4051DC), the following code contains stack-based buffer overflow vulnerability. Buffer `v11`'s length is fixed, which maybe overflowed by `sprintf`
