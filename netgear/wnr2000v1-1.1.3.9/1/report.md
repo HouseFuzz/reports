@@ -5,8 +5,8 @@ product: wnr2000v1
 version: below or equal wnr2000v1-1.1.3.9
 
 ## description
-In netgear jnr3300-1.0.0.34, binary `/bin/boa` contains a NULL pointer dereference vulnerability. Attackers can send malicious packet to trigger the vulnerability.
-
+In netgear wnr2000v1-1.1.3.9, binary `/bin/boa` contains a NULL pointer dereference vulnerability. Attackers can send malicious packet to trigger the vulnerability.
+cd 
 ## detail
 In function `get_mime_type` (address: 0x40A01C). If the parameter of strcmp is NULL, a NULL pointer dereference will happen and causes the web server to stop working.
 ![strcmp_dos](image.png)

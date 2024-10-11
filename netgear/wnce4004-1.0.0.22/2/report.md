@@ -7,7 +7,7 @@ product: wnce4004
 version: below or equal wnce4004-1.0.0.22
 
 ## description
-In netgear jnr3300-1.0.0.34, binary `/usr/sbin/uhttpd` contains a buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability.
+In netgear wnce4004-1.0.0.22, binary `/usr/sbin/uhttpd` contains a buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 
 ## detail
 In function `get_postfile` (address: 0x406974), there exists a buffer overflow vulnerability. 
