@@ -22,3 +22,6 @@ see [poc](./poc)
 ## screenshot
 The qemu logging shows that the web server is launching a new program which is contained in our poc, meaning thet arbitary command can be executed(with path traversal).
 ![cmdinj](image-1.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

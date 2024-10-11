@@ -24,3 +24,6 @@ see [poc](./poc)
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered, and web server has stoppod working. The pc is overwitten by value `0x0f0f0f0e`, which is contained in POC. This indicates that a stack-based overflow has triggered.
 
 ![crash](image-1.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

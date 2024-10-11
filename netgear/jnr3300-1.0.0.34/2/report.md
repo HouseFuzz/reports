@@ -22,3 +22,6 @@ see [POC](./poc)
 ## screenshot
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered. The PC is mis-aligned and contains special char(0x65, which is 'e', which is contained in poc), meaning stack buffer has been overwrited.
 ![stack-based buffer overflow](image-1.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

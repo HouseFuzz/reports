@@ -22,3 +22,7 @@ see [poc](./poc)
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered, and web server has stoppod working.
 
 ![alt text](image.png)
+
+
+## timeline
+[24/10/11] report to vendor and CVE

@@ -23,3 +23,6 @@ see [poc](./poc)
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered, and web server has stoppod working.From the logging information, a NULL pointer dereference and DoS on firmware can be observed.
 
 ![crash](image.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

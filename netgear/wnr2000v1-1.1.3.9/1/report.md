@@ -20,3 +20,6 @@ see [poc](./poc)
 ## screenshot
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered.
 ![seg_fault](image-3.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

@@ -24,3 +24,6 @@ see [poc](./poc)
 The qemu logging shows that the web server encounters a command injection and the parameter is under attacker's control. By using path traversal we can execute arbitary command on the router.
 
 ![cmdinj](image-1.png)
+
+## timeline
+[24/10/11] report to vendor and CVE

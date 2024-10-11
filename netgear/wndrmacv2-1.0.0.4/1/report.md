@@ -23,3 +23,6 @@ see [poc](./poc)
 The qemu logging shows that the web server encounters a crash and SEGSEGV signal has triggered, and web server has stoppod working.From the logging information, a stack-based buffer overflow can be observed(the `si_addr=0x61616160` contains user input)
 
 ![crash](image-1.png)
+
+## timeline
+[24/10/11] report to vendor and CVE
