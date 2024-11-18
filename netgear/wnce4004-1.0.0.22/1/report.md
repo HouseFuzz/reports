@@ -1,5 +1,5 @@
 # wnce4004-1.0.0.22 DOS vulnerability
-## firmware version
+## firmware information
 vendor: netgear
 
 product: wnce4004
@@ -8,6 +8,9 @@ version: below or equal wnce4004-1.0.0.22
 
 ## description
 In netgear wnce4004-1.0.0.22, binary `/usr/sbin/uhttpd` contains a DOS vulnerability. Attackers can send malicious packet to trigger the vulnerability.
+
+## Impact
+The vulnerability can cause Denial Of Service of the device.
 
 ## detail
 In function `handle_request` (address: 0x404988), If the parameter of strcasecmp is NULL, a NULL pointer dereference will happen and causes the web server to stop working.
