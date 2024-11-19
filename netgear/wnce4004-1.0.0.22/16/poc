@@ -1,0 +1,6 @@
+POST /apply.cgi?/UPG_upgrade.htm HTTP/1.1
+Host: 201
+Content-Type: application/json
+Content-Length: 51
+
+%20timestamp=bgn&submit_flag=block_sites&WzQ=wZQ

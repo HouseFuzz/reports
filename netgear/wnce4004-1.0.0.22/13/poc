@@ -1,0 +1,6 @@
+POST /apply.cgi?GetConnectionTypeInfo HTTP/1.1
+Host: 86
+Content-Type: application/json
+Content-Length: 61
+
+wan_proto=l2tp&submit_flag=USB_advanced&%20timestamp=pppoe

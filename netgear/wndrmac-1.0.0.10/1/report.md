@@ -11,6 +11,9 @@ In netgear wndrmac-1.0.0.10, binary `/usr/sbin/uhttpd` contains a DOS vulnerabil
 
 ## detail
 In function `do_apply` (address: 0x40AA40), malicious TCP packet will trigger NULL pointer dereference and cause DoS.
+![alt text](image-1.png)
+
+The root cause of the vulnerability is that the code didn't check whether the parameter `v3` is NULL before using it as parameter of `strstr`
 
 ## send packet
 You can send the POC packet via TCP to the `80` port of the firmware's web server to trigger the vulnerability.

