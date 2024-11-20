@@ -10,7 +10,7 @@ version: below or equal xavn2001v2-0.4.0.7
 In netgear xavn2001v2-0.4.0.7, binary `/usr/sbin/uhttpd` contains a out-of-bound write and DoS vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 
 ## detail
-In function `sub_407114` (address: 0x407114), the following loop doesn't check the boundry of the data, causing infinite loop , out-of-bound write and crash.
+In function `sub_407114` (address: 0x407114), the following loop doesn't check the boundry of the data, causing infinite loop , out-of-bound write and crash. The root cause is that local stack variable `v3` may be uninitialized before entering the loop.
 
 ![oob](image.png)
 

