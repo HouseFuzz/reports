@@ -1,0 +1,5 @@
+GET /apply.cgi?/WPS_failure.htm timestamp= HTTP/1.1
+Content-Type: application/json
+Content-Length: 45
+
+submit_flag=qos_delmac&%20timestamp=WNDRMAC

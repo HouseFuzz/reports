@@ -1,0 +1,6 @@
+GET /apply.cgi?wl_country_na HTTP/1.1
+Host: 242
+Content-Type: application/json
+Content-Length: 97
+
+wl_country=wzqwzqwzq&%20timestamp=wzqwzqwzq&submit_flag=edit_qos_mac&upgrade_yes_no=wzqwzqwzq
