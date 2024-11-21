@@ -6,6 +6,10 @@ product: wndr3700v2
 
 version: below or equal wndr3700v2-1.0.0.8
 
+support url: https://www.netgear.com/support/product/wndr3700v2/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNDR3700V2/WNDR3700v2%20WNDR37AVv2%20Firmware%20Version%201.0.0.8.zip
+
 ## description
 In netgear wndr3700v2-1.0.0.8, binary `/usr/sbin/uhttpd` contains a global variable buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability. The problem lies in parsing global variable `timnestamp` in `handle_request`.
 

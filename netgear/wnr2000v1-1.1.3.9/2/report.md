@@ -6,6 +6,10 @@ product: wnr2000v1
 
 version: below or equal wnr2000v1-1.1.3.9
 
+support url: https://www.netgear.com/support/product/wnr2000v1/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNR2000v1/WNR2000%20Firmware%20Version%201.1.3.9%20(All%20regions%20except%20North%20America).zip
+
 ## description
 In netgear wnr2000v1-1.1.3.9, binary `/bin/boa` contains a NULL pointer dereference vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 

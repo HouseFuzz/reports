@@ -6,6 +6,10 @@ product: wndr37avv2
 
 version: below or equal wndr37avv2-1.0.0.10
 
+suport url: https://www.netgear.com/support/product/wndr37avv2/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNDR37AVv2/WNDR3700v2WNDR37AVv2%20Firmware%20Version%201.0.0.10.zip
+
 ## description
 In netgear wndr37avv2-1.0.0.10, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow. Attackers can send malicious packet to trigger the vulnerability, causing DOS or execute arbitary code on this firmware.
 

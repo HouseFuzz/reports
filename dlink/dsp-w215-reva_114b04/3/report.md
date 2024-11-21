@@ -6,6 +6,10 @@ product: dsp-w215-reva
 
 version: below or equal 114b04
 
+support url: http://files.dlink.com.au/products/DSP-W215/
+
+firmware download url: http://files.dlink.com.au/products/DSP-W215/REV_A/Firmware/Firmware_v.114B04/DSPW215A1_FW114B04.bin
+
 ## description
 
 In dsp-w215-reva, binary `/usr/bin/lighttpd` exists a global buffer overflow vulnerability, attackers can send malicious packet to trigger the vulnerability.

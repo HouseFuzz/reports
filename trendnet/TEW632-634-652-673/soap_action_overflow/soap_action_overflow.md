@@ -5,6 +5,11 @@ TEW-634GRU devices trhough 1.01b14
 TEW-652BRP devices through 1.10.29
 TEW-673GRU devices through 1.00b40
 
+firmware download url: 
+https://downloads.trendnet.com/tew-634gru/firmware/tew-634gruv1_(fw1.01b14).zip
+https://downloads.trendnet.com/tew-652brp/firmware/tew-652brpv1(fw1.10b29).zip
+https://downloads.trendnet.com/tew-673gru/firmware/tew-673gru_fw100b40.zip
+
 
 ## Description
 Multiple TRENDnet devices contain a buffer overflow  in the httpd web server, which is caused by lacking of length checking of SOAPACTION parameter in the request header. The buffer overflow allows an unauthenticated attacker to conduct DoS or potentially command injection to the affected devices.

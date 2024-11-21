@@ -6,6 +6,10 @@ product: dap_1620-reva
 
 version: below or equal 1.05.b05
 
+support url: https://support.dlink.com/resource/products/dap-1620/
+
+firmware download url: https://support.dlink.com/resource/products/dap-1620/REVA/DAP-1620_REVA_FIRMWARE_v1.05B05.zip
+
 ## description
 In d-link dap-1620-reva_1.05b05, binary `/sbin/lighttpd` contains a global variable overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 

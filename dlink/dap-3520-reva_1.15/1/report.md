@@ -6,6 +6,10 @@ product: dap-3520-reva
 
 version: below or equal dap-3520-reva_1.15
 
+support url: https://support.dlink.com/resource/products/dap-3520/
+
+firmware download url: https://support.dlink.com/resource/products/dap-3520/REVA/DAP-3520_FIRMWARE_1.15.ZIP
+
 ## description
 In dap-3520-reva_1.15, binary `/sbin/atp` contains stack-based buffer  overflow vulnberability. Attackers can send malicious packet to trigger the vulnerability.
 

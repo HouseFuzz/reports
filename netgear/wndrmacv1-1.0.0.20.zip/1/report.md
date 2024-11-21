@@ -6,6 +6,10 @@ product: wndrmacv1
 
 version: below or equal wndrmacv1-1.0.0.20
 
+support url: https://www.netgear.com/support/product/wndrmacv1/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNDRMACv1/WNDRMAC%20Firmware%20Version%201.0.0.20.zip
+
 ## description
 In netgear wndrmacv1-1.0.0.20, binary `/usr/sbin/uhttpd` contains a DOS vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 

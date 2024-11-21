@@ -6,6 +6,10 @@ product: xwn5001
 
 version: below or equal xwn5001-0.4.1.1
 
+support url: https://www.netgear.com/support/product/xwn5001/#download
+
+download url: https://www.downloads.netgear.com/files/GDC/XWN5001/XWN5001-V0.4.1.1.zip
+
 ## description
 In netgear xwn5001-0.4.1.1, binary `/usr/sbin/uhttpd` contains auninitialized variable vulnerability. Attackers can send malicious packet to trigger the vulnerability. The vulnerability lies in function `sub_407114`.
 

@@ -6,6 +6,8 @@ product: jnr3300
 
 version: below or equal jnr3300-1.0.0.34
 
+firmware download url: https://www.downloads.netgear.com/files/GDC/JNR3300/JNR3300-V1.0.0.34PR.zip
+
 ## description
 In netgear jnr3300-1.0.0.34, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability.
 

@@ -6,6 +6,10 @@ product: wnce4004
 
 version: below or equal wnce4004-1.0.0.22
 
+support url: https://www.netgear.com/support/product/wnce4004/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNCE4004/WNCE4004_V1.0.0.22.zip
+
 ## description
 In netgear wnce4004-1.0.0.22, binary `/usr/sbin/uhttpd` contains a DOS vulnerability. Attackers can send malicious packet to trigger the vulnerability. The vulnerability lies in `strtoul` in function `handle_request`
 

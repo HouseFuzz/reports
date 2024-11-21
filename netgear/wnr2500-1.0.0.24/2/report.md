@@ -6,6 +6,10 @@ product: wnr2500
 
 version: below or equal wnr2500-1.0.0.24
 
+support url: https://www.netgear.com/support/product/wnr2500/
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/WNR2500/WNR2500-V1.0.0.24NA.zip
+
 ## description
 In netgear wnr2500-1.0.0.24, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability. The vulnerability lies in function `sub_405B18`.
 

@@ -6,6 +6,10 @@ product: dap-1522-reva
 
 version: below or equal 1.41b02
 
+support url: https://www.dlink.com/rs/sr/products/dap-1522-xtreme-n-duo-wireless-n-access-point#support
+
+firmware download url: https://media.dlink.eu/support/products/dap/dap-1522/driver_software/dap-1522_fw_reva_1-41b02_all_en_20120229.zip
+
 ## description
 In d-link dap-1522-reva_1.41b02 firmware, binary `/sbin/atp` contains stack-based buffer overflow vulnberability. Attackers can send malicious packet to trigger the vulnerability.
 

@@ -6,6 +6,10 @@ product: xavn2001v2
 
 version: below or equal xavn2001v2-0.4.0.7
 
+support url: https://www.netgear.com/support/product/xavn2001v2/#download
+
+firmware download url: https://www.downloads.netgear.com/files/GDC/XAVN2001/XAVN2001-V0.4.0.7.zip
+
 ## description
 In netgear xavn2001v2-0.4.0.7, binary `/usr/sbin/uhttpd` contains a stack-based buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability. The problem lies in function `sub_4059C8`.
 

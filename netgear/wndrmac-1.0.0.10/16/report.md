@@ -6,6 +6,10 @@ product: wndrmac
 
 version: below or equal wndrmac-1.0.0.10
 
+support url: https://www.netgear.com/support/product/wndrmacv2/#download
+
+firmware download url: https://www.downloads.netgear.com/files/WNDRMACv2/WNDRMACv2%20Firmware%20Version%201.0.0.10.zip
+
 ## description
 In netgear wndrmac-1.0.0.10, binary `/usr/sbin/uhttpd` contains a global variable buffer overflow vulnerability. Attackers can send malicious packet to trigger the vulnerability. The vulnerability lies in the dereference of parameter `timestamp` in `handle_request`
 

@@ -4,6 +4,10 @@
 TEW-634GRU devices trhough 1.01b14
 TEW-673GRU devices through 1.00b40
 
+firmware download url: 
+https://downloads.trendnet.com/tew-634gru/firmware/tew-634gruv1_(fw1.01b14).zip
+https://downloads.trendnet.com/tew-673gru/firmware/tew-673gru_fw100b40.zip
+
 
 ## Description
 Multiple TRENDnet devices can be attacked due to an unauthenticated denial-of-service vulnerability in the httpd web server because the URL path processing lacks a check on strchr return value.
