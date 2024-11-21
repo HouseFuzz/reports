@@ -21,4 +21,3 @@ The vulnerability can cause Denial Of Service of the device or arbitary code exe
 ## poc
 see [poc](./poc)
 
-see [backtrace](./backtrace) for more information.
