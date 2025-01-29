@@ -1,7 +1,7 @@
-# TEW-652BRP
+# TEW-634BRP
 
 ## Firmware version
-TEW-634GRU devices trhough 1.01b14
+TEW-634GRU devices through 1.01b14
 TEW-673GRU devices through 1.00b40
 
 firmware download url: 
